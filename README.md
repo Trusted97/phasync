@@ -553,8 +553,6 @@ try {
 }
 ```
 
-
->>>>>>> Stashed changes
 ## Getting Started
 
 Install phasync via Composer and start enhancing your PHP applications with powerful asynchronous capabilities:
